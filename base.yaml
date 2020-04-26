@@ -1,0 +1,19 @@
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: Rule
+log-level: debug
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:1053
+  enhanced-mode: fake-ip
+  nameserver:
+    - tcp://119.29.29.29:53
+    - tcp://116.62.218.19:53
+    - tcp://223.6.6.6:53
+    - tcp://208.67.222.222:5353
+  fallback:
+    - tcp://1.0.0.1:53
+    - tcp://208.67.220.220:5353
+    - tls://1.0.0.1:853
