@@ -1,5 +1,2 @@
 proxies:
-  - {name: NeteaseUnblock-CN-HHHT-IOS, server: netease-hhht.wcc.best, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ, udp: true}
-  - {name: NeteaseUnblock-CN-HHHT-PC, server: netease-hhht.wcc.best, port: 58080, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ, udp: true}
-  - {name: NeteaseUnblock-HK-IOS, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi, udp: true}
-  - {name: NeteaseUnblock-HK-PC, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi, udp: true}
+  - { name: UnblockMusic, type: http, server: unblockmusic.yjs2635.xyz, port: 60999 }
