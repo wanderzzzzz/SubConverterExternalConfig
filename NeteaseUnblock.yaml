@@ -1,2 +1,13 @@
 proxies:
-  - { name: UnblockMusic, type: http, server: unblockmusic.yjs2635.xyz, port: 60999 }
+  - name: UnblockMusic
+    type: ss
+    server: music.desperadoj.com
+    port: 30001
+    cipher: aes-128-gcm
+    password: desperadoj.com_free_proxy_emx2
+  - name: UnblockMusic-iOS
+    type: ss
+    server: music.desperadoj.com
+    port: 30003
+    cipher: aes-128-gcm
+    password: desperadoj.com_free_proxy_emx2
