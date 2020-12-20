@@ -1,13 +1,17 @@
 proxies:
-  - name: UnblockMusic
+  - name: UnblockMusic1
     type: ss
     server: music.desperadoj.com
     port: 30001
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_emx2
-  - name: UnblockMusic-iOS
+  - name: UnblockMusic1-iOS
     type: ss
     server: music.desperadoj.com
     port: 30003
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_emx2
+  - name: UnblockMusic2
+    type: http
+    server: music.lolico.me
+    port: 39000
