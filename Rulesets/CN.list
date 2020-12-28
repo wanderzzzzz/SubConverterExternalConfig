@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,globe-active.foxitservice.com
 DOMAIN-SUFFIX,globe-register.foxitservice.com
+IP-CIDR,98.159.108.71/32
